@@ -14,16 +14,5 @@ Skills: VUE JS / REACT / JS Python (beginner), HTML (beginner), CSS (beginner), 
 - ⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time.  I love experimenting with new recipes and cooking in the kitchen.  I'm passionate about learning new technologies, even if I'm just starting out.  I have a collection of books on personal development and technology 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farjinahmedfaisal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/farjin.ahmed)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farjinahmedfaisal)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farjinahmedfaisal)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farjinahmedfaisal&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/farjinahmedfaisal/contributions?format=svg&private=false)  
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=farjinahmedfaisal)  
 
