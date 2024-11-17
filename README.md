@@ -24,7 +24,6 @@ Skills: VUE JS / REACT / JS Python (beginner), HTML (beginner), CSS (beginner), 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/farjinahmedfaisal/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/farjinahmedfaisal)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=farjinahmedfaisal)  
 
